@@ -1,4 +1,8 @@
 {
+  "projects": {
+    "default": "elli-d071a",
+    "ELLE123": "elle-9d34b"
+  },
   "targets": {
     "elli-d071a": {
       "hosting": {
@@ -8,7 +12,5 @@
       }
     }
   },
-  "projects": {
-    "default": "elli-d071a"
-  }
+  "etags": {}
 }
